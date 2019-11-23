@@ -1,6 +1,6 @@
 /*
   Giant NES controller
-  Arduino sketch for the atmega16u2 on the Arduino Uno board
+  Arduino sketch for the atmega328p on the Arduino Uno board
 
   Note that compiling this sketch requires you to select the "Arduino Uno" board.
   
