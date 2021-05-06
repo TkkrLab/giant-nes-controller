@@ -7,4 +7,5 @@ thumbnail: "https://raw.githubusercontent.com/TkkrLab/giant-nes-controller/maste
 # Giant NES Controller
 Controller but a bit bigger (100x), fully function with included Retropi to play all the clasic games such as Mario.
 
-![Giant NES](GiantNES.jpg)
+![Giant NES](https://raw.githubusercontent.com/TkkrLab/giant-nes-controller/master/GiantNES.jpg)
+
